@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="_2">Элемент 2</string>
+    <string name="_1">Элемент 1</string>
+</resources>
